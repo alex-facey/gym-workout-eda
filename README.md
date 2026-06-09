@@ -13,9 +13,9 @@ This project explores whether workout session duration directly predicts calorie
 
 ## Visualizations
 
-![Session Duration vs Calories Burned](images/scatter_duration_calories.png)
+![Session Duration vs Calories Burned](images/sessiondurationvscaloriesburned.png)
 
-![Average Calories Burned by Experience Level](images/bar_experience_calories.png)
+![Average Calories Burned by Workout Type and Gender](images/avgcaloriesburnedbyworkouttypeandgender.png)
 
 ---
 
